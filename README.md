@@ -54,9 +54,10 @@ Links deployados
 
 Backend: https://todo-backend-4c3m.onrender.com
 
-Front web: 
+
+Front web: https://todolist-web-5e9q.vercel.app/
 
 ## Usuarios de prueba
 
-Email: i@hotmail.com (Sujeto a configuración en Firebase)
-Password: 123456Ss
+Email: prueba@hotmail.com 
+Password: 123456Aa
